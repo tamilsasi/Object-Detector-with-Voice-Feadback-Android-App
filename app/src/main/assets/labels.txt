@@ -1,0 +1,16 @@
+auto
+bed
+bottle
+bus
+car
+cat
+chair
+dog
+dustbin
+person
+street light
+table
+tree
+truck
+television
+two wheeler
